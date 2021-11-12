@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>3000.0.0.0</version>
-  <url>https://github.com/agatastasiakvt/AtkoreAutoUpdate/raw/main/net5.0-windows.zip</url>
-  <!--<url>https://github.com/agatastasiakvt/AtkoreAutoUpdate/raw/main/unnamed.zip</url>-->
+  <!--<url>https://github.com/agatastasiakvt/AtkoreAutoUpdate/raw/main/net5.0-windows.zip</url>-->
+  <url>https://github.com/agatastasiakvt/AtkoreAutoUpdate/raw/main/unnamed.zip</url>
   <!--<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>-->
   <mandatory>false</mandatory>
 </item>
